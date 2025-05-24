@@ -1,11 +1,10 @@
 import openai
-import streamlit
+import streamlit as st
 
 
-#create streamlit app
-print('hello world')
 
-hello = 'hello'
 
-#Written in linux
-#this is another pull test
+st.title('Resume tweaker')
+
+
+
